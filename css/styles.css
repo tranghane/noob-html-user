@@ -1,0 +1,55 @@
+
+body{
+    background-color: #FFF9CA;
+  }
+hr{
+    border-style: dotted none none;
+    color: #DDDDDD;
+    height: 10px;
+    border-width: 7px;
+    width: 5%;
+  }
+h1{
+  font-family: 'Amatic SC', cursive;
+  font-size: 30px;
+  color: #E27D60;
+}
+h3{
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+  font-size: 20px;
+  color: #C38D9E;
+}
+p{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  color: #41B3A3;
+}
+a{
+  text-decoration: none;
+  color: #41B3A3;
+}
+a:hover{
+  color: #B2A4FF;
+  text-decoration: underline;
+}
+table{
+  color: #41B3A3;
+}
+ul{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  color: #41B3A3;
+}
+ol{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  color: #41B3A3;
+}
+td{
+  font-family: cursive;
+}
+label{
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+  color: #41B3A3;
+}
