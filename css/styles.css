@@ -1,6 +1,6 @@
 
 body{
-    background-color: #FFF9CA;
+    background-color: #A8D0E6;
   }
 hr{
     border-style: dotted none none;
@@ -12,7 +12,7 @@ hr{
 h1{
   font-family: 'Amatic SC', cursive;
   font-size: 30px;
-  color: #E27D60;
+  color: #F76C6C;
 }
 h3{
   font-family: 'Edu VIC WA NT Beginner', cursive;
@@ -26,14 +26,14 @@ p{
 }
 a{
   text-decoration: none;
-  color: #41B3A3;
+  color: #374785;
 }
 a:hover{
-  color: #B2A4FF;
+  color: #F8E9A1;
   text-decoration: underline;
 }
 table{
-  color: #41B3A3;
+  color: #24305E;
 }
 ul{
   font-family: 'Josefin Sans', sans-serif;
